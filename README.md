@@ -1,27 +1,63 @@
-<h1 align="center">Hi 👋, I'm Nam</h1>
-<h3 align="center">A passionate backend developer from Vietnam</h3>
+<h1>Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /></h1>
+<!-- <h3 align="center">A passionate backend developer from Vietnam</h3> -->
+My name is Nam Nguyen and I'm a junior student at HCMUT. I'm living in Ho Chi Minh City and currently studying Android.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nhhnmm&label=Profile%20views&color=0e75b6&style=flat" alt="nhhnmm" /> </p>
-
-- 🔭 I’m currently working on [HCMUT](https://hcmut.edu.vn/)
-
-- 🌱 I’m currently learning **Flutter**
-
-- 📫 How to reach me **namnguyenhoai512@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">🔧 Technologies & Tools</h2>
 <p align="left">
-<a href="https://twitter.com/nhhnmm__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nhhnmm__" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/nhhnmm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nhhnmm" height="30" width="40" /></a>
-<a href="https://fb.com/nhhnmm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nhhnmm" height="30" width="40" /></a>
-<a href="https://instagram.com/nhhnmm__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nhhnmm__" height="30" width="40" /></a>
+  <a href="https://www.kernel.org/">
+    <img src="https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a" />
+  </a>
+  <a href="https://code.visualstudio.com/">
+    <img src="https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=2bbc8a" />
+  </a>
+  <a href="https://www.python.org/">
+    <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a" />
+  </a>
+  <a href="https://www.php.net/">
+    <img src="https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=2bbc8a" />
+  </a>
+  <a href="https://dotnet.microsoft.com/en-us/languages/csharp/">
+    <img src="https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=csharp&logoColor=white&color=2bbc8a" />
+  </a>
+  <a href="https://www.gnu.org/software/bash/">
+    <img src="https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a" />
+  </a>
+  <a href="https://www.gnu.org/software/make/">
+    <img src="https://img.shields.io/badge/Code-Make-informational?style=flat&logo=cmake&logoColor=white&color=2bbc8a" />
+  </a>
+  <a href="https://git-scm.com/">
+    <img src="https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a" />
+  </a>
+  <a href="https://www.docker.com/">
+    <img src="https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a" />
+  </a>
+  <a href="https://www.postgresql.org/">
+    <img src="https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a" />
+  </a>
+  <a href="https://www.digitalocean.com/">
+    <img src="https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.haskell.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" alt="haskell" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
+<h2>&#x1f4c8; GitHub Stats</h2>
+<a href="https://github.com/namnguyen02?tab=repositories">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=namnguyen02&hide=java,html,tex&title_color=2bbc8a&icon_color=2bbc8a&langs_count=3" />
+</a>
+<a href="https://github.com/namnguyen02?tab=repositories">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=namnguyen02&show_icons=true&line_height=27&count_private=true&title_color=2bbc8a&icon_color=2bbc8a" alt="Nam Nguyen's GitHub Stats" />
+</a>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=namnguyen02&show_icons=true&locale=en&layout=compact" alt="namnguyen02" /></p>
+<h4>Connect with me</h4>
+<p align="left">
+  <a href="https://www.linkedin.com/in/nhhnmm/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/nhhnmm__/">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://t.me/nhhnmm/">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" />
+  </a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=namnguyen02&show_icons=true&locale=en" alt="namnguyen02" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=namnguyen02&" alt="namnguyen02" /></p>
+<!-- <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=namnguyen02&" alt="namnguyen02" /></p> -->
