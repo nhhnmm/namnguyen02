@@ -3,39 +3,45 @@
 
 <h2>&#x1F527; Technologies & Tools</h2>
 <p>
-  <a href="https://www.kernel.org/">
+<!--   <a href="https://www.kernel.org/">
     <img src="https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a" />
-  </a>
+  </a> -->
   <a href="https://code.visualstudio.com/">
     <img src="https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=2bbc8a" />
+  </a>
+  <a href="https://isocpp.org/">
+    <img src="https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=2bbc8a" />
   </a>
   <a href="https://www.python.org/">
     <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a" />
   </a>
+  <a href="https://www.ecma-international.org/publications-and-standards/standards/ecma-262/">
+    <img src="https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a" />
+  </a>
   <a href="https://www.php.net/">
     <img src="https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=2bbc8a" />
   </a>
-  <a href="https://dotnet.microsoft.com/en-us/languages/csharp/">
+<!--   <a href="https://dotnet.microsoft.com/en-us/languages/csharp/">
     <img src="https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=csharp&logoColor=white&color=2bbc8a" />
-  </a>
+  </a> -->
   <a href="https://www.gnu.org/software/bash/">
     <img src="https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a" />
   </a>
-  <a href="https://www.gnu.org/software/make/">
+<!--   <a href="https://www.gnu.org/software/make/">
     <img src="https://img.shields.io/badge/Code-Make-informational?style=flat&logo=cmake&logoColor=white&color=2bbc8a" />
-  </a>
+  </a> -->
   <a href="https://git-scm.com/">
     <img src="https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a" />
   </a>
-  <a href="https://www.docker.com/">
+<!--   <a href="https://www.docker.com/">
     <img src="https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a" />
+  </a> -->
+  <a href="https://www.mysql.org/">
+    <img src="https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a" />
   </a>
-  <a href="https://www.postgresql.org/">
-    <img src="https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a" />
-  </a>
-  <a href="https://www.digitalocean.com/">
+<!--   <a href="https://www.digitalocean.com/">
     <img src="https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a" />
-  </a>
+  </a> -->
 </p>
 
 <h2>&#x1f4c8; GitHub Stats</h2>
