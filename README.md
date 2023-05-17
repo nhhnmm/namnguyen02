@@ -1,56 +1,49 @@
-<h1>Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /></h1>
-<p>My name is Nam Nguyen and I'm a junior student at HCMUT. I'm living in Ho Chi Minh City and currently studying Android.</p>
+<h4>Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px" height="20px" /></h4>
+<p style="fontsize: 5px">I am Nam, junior computer science student. I am working towards being a mobile developer.</p>
+<img align="right" alt="GIF" src="https://media4.giphy.com/media/LaVp0AyqR5bGsC5Cbm/200w.gif?cid=6c09b952w24bjufvqeclteezkbvwapwd39cbdkmllna6q2be&ep=v1_gifs_search&rid=200w.gif&ct=g" />
 
-<h2>&#x1F527; Technologies & Tools</h2>
+<!-- <h4>&#x1F527; Technologies & Tools</h4> -->
+<h4>Technologies & Tools</h4>
 <p>
-<!--   <a href="https://www.kernel.org/">
-    <img src="https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a" />
-  </a> -->
-  <a href="https://code.visualstudio.com/">
-    <img src="https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=2bbc8a" />
-  </a>
   <a href="https://isocpp.org/">
-    <img src="https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=2bbc8a" />
+    <img src="https://img.shields.io/badge/Code-C++-2bbc8a?style=flat&logo=cplusplus&logoColor=white" />
   </a>
   <a href="https://www.python.org/">
-    <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a" />
+    <img src="https://img.shields.io/badge/Code-Python-2bbc8a?style=flat&logo=python&logoColor=white" />
   </a>
   <a href="https://www.ecma-international.org/publications-and-standards/standards/ecma-262/">
-    <img src="https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a" />
+    <img src="https://img.shields.io/badge/Code-Javascript-2bbc8a?style=flat&logo=javascript&logoColor=white" />
   </a>
   <a href="https://www.php.net/">
-    <img src="https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=2bbc8a" />
+    <img src="https://img.shields.io/badge/Code-PHP-2bbc8a?style=flat&logo=php&logoColor=white" />
   </a>
-<!--   <a href="https://dotnet.microsoft.com/en-us/languages/csharp/">
-    <img src="https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=csharp&logoColor=white&color=2bbc8a" />
-  </a> -->
-  <a href="https://www.gnu.org/software/bash/">
-    <img src="https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a" />
+  <a href="https://reactnative.dev/">
+    <img src="https://img.shields.io/badge/Frame-React_Native-2bbc8a?style=flat&logo=react&logoColor=white" />
   </a>
-<!--   <a href="https://www.gnu.org/software/make/">
-    <img src="https://img.shields.io/badge/Code-Make-informational?style=flat&logo=cmake&logoColor=white&color=2bbc8a" />
-  </a> -->
+  <a href="https://nestjs.com/">
+    <img src="https://img.shields.io/badge/Frame-NestJS-2bbc8a?style=flat&logo=nestjs&logoColor=white" />
+  </a>
   <a href="https://git-scm.com/">
-    <img src="https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a" />
+    <img src="https://img.shields.io/badge/Tools-Git-2bbc8a?style=flat&logo=git&logoColor=white" />
   </a>
-<!--   <a href="https://www.docker.com/">
-    <img src="https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a" />
-  </a> -->
   <a href="https://www.mysql.org/">
-    <img src="https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a" />
+    <img src="https://img.shields.io/badge/Tools-MySQL-2bbc8a?style=flat&logo=mysql&logoColor=white" />
   </a>
-<!--   <a href="https://www.digitalocean.com/">
-    <img src="https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a" />
-  </a> -->
+  <a href="https://www.kernel.org/">
+    <img src="https://img.shields.io/badge/OS-WSL2-2bbc8a?style=flat&logo=linux&logoColor=white" />
+  </a>
+  <a href="https://www.gnu.org/software/bash/">
+    <img src="https://img.shields.io/badge/Shell-Bash-2bbc8a?style=flat&logo=gnu-bash&logoColor=white" />
+  </a>
+  <a href="https://code.visualstudio.com/">
+    <img src="https://img.shields.io/badge/Editor-VSCode-2bbc8a?style=flat&logo=visualstudiocode&logoColor=white" />
+  </a>
 </p>
 
-<h2>&#x1f4c8; GitHub Stats</h2>
+<!-- <h4>&#x1f4c8; GitHub Stats</h4> -->
 <p>
   <a href="https://github.com/namnguyen02?tab=repositories">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=namnguyen02&hide=java,html,tex&title_color=2bbc8a&icon_color=2bbc8a&langs_count=3" />
-  </a>
-  <a href="https://github.com/namnguyen02?tab=repositories">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=namnguyen02&show_icons=true&line_height=27&count_private=true&title_color=2bbc8a&icon_color=2bbc8a" alt="Nam Nguyen's GitHub Stats" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=namnguyen02&rank_icon=github&show_icons=true&count_private=true&title_color=2bbc8a&icon_color=2bbc8a&hide_border=true&hide_title=true" alt="Nam Nguyen's GitHub Stats" />
   </a>
 </p>
 
