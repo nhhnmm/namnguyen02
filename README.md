@@ -40,7 +40,6 @@
   </a>
 </p>
 
-<!-- <h4>&#x1f4c8; GitHub Stats</h4> -->
 <p>
   <a href="https://github.com/namnguyen02?tab=repositories">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=namnguyen02&rank_icon=github&show_icons=true&count_private=true&title_color=2bbc8a&icon_color=2bbc8a&hide_border=true&hide_title=true" alt="Nam Nguyen's GitHub Stats" />
@@ -49,7 +48,7 @@
 
 <h4>Connect with me</h4>
 <p>
-  <a href="https://www.linkedin.com/in/nhhnmm/">
+<!--   <a href="https://www.linkedin.com/in/nhhnmm/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://twitter.com/nhhnmm__/">
@@ -57,5 +56,15 @@
   </a>
   <a href="https://t.me/nhhnmm/">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" />
+  </a> -->
+  <a href="https://www.linkedin.com/in/nhhnmm/">
+    <img src="https://img.shields.io/badge/LinkedIn-525252?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/nhhnmm__/">
+    <img src="https://img.shields.io/badge/Twitter-525252?style=flat-square&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://t.me/nhhnmm/">
+    <img src="https://img.shields.io/badge/Telegram-525252?style=flat-square&logo=telegram&logoColor=white" />
   </a>
 </p>
+<!-- <h4>&#x1f4c8; GitHub Stats</h4> -->
