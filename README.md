@@ -20,8 +20,8 @@
   <a href="https://reactnative.dev/">
     <img src="https://img.shields.io/badge/Frame-React_Native-2bbc8a?style=flat&logo=react&logoColor=white" />
   </a>
-  <a href="https://nestjs.com/">
-    <img src="https://img.shields.io/badge/Frame-NestJS-2bbc8a?style=flat&logo=nestjs&logoColor=white" />
+  <a href="https://nextjs.org/">
+    <img src="https://img.shields.io/badge/Frame-NextJS-2bbc8a?style=flat&logo=nextdotjs&logoColor=white" />
   </a>
   <a href="https://git-scm.com/">
     <img src="https://img.shields.io/badge/Tools-Git-2bbc8a?style=flat&logo=git&logoColor=white" />
