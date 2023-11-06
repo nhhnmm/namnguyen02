@@ -1,5 +1,5 @@
 <h4>Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px" height="20px" /></h4>
-<p style="fontsize: 5px">I am Nam, junior computer science student. I am working towards being a mobile developer.</p>
+<p style="fontsize: 5px">I am Nam, final-year computer science student. I am working towards being a software engineer.</p>
 <img align="right" alt="GIF" src="https://media4.giphy.com/media/LaVp0AyqR5bGsC5Cbm/200w.gif?cid=6c09b952w24bjufvqeclteezkbvwapwd39cbdkmllna6q2be&ep=v1_gifs_search&rid=200w.gif&ct=g" />
 
 <!-- <h4>&#x1F527; Technologies & Tools</h4> -->
@@ -26,8 +26,8 @@
   <a href="https://git-scm.com/">
     <img src="https://img.shields.io/badge/Tools-Git-2bbc8a?style=flat&logo=git&logoColor=white" />
   </a>
-  <a href="https://www.mysql.org/">
-    <img src="https://img.shields.io/badge/Tools-MySQL-2bbc8a?style=flat&logo=mysql&logoColor=white" />
+  <a href="https://www.postgresql.org/">
+    <img src="https://img.shields.io/badge/Tools-PostgreSQL-2bbc8a?style=flat&logo=postgresql&logoColor=white" />
   </a>
   <a href="https://www.kernel.org/">
     <img src="https://img.shields.io/badge/OS-WSL2-2bbc8a?style=flat&logo=linux&logoColor=white" />
