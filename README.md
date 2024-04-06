@@ -5,35 +5,38 @@
 <!-- <h4>&#x1F527; Technologies & Tools</h4> -->
 <h4>Technologies & Tools</h4>
 <p>
-  <a href="https://isocpp.org/">
-    <img src="https://img.shields.io/badge/Code-C++-2bbc8a?style=flat&logo=cplusplus&logoColor=white" />
+  <a href="https://www.typescriptlang.org/">
+    <img src="https://img.shields.io/badge/Lang-TyepScript-2bbc8a?style=flat&logo=typescript&logoColor=white" />
   </a>
   <a href="https://www.python.org/">
-    <img src="https://img.shields.io/badge/Code-Python-2bbc8a?style=flat&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/Lang-Python-2bbc8a?style=flat&logo=python&logoColor=white" />
   </a>
   <a href="https://www.ecma-international.org/publications-and-standards/standards/ecma-262/">
-    <img src="https://img.shields.io/badge/Code-Javascript-2bbc8a?style=flat&logo=javascript&logoColor=white" />
+    <img src="https://img.shields.io/badge/Lang-JavaScript-2bbc8a?style=flat&logo=javascript&logoColor=white" />
   </a>
-  <a href="https://www.php.net/">
-    <img src="https://img.shields.io/badge/Code-PHP-2bbc8a?style=flat&logo=php&logoColor=white" />
+  <a href="https://www.rust-lang.org/">
+    <img src="https://img.shields.io/badge/Lang-Rust-2bbc8a?style=flat&logo=rust&logoColor=white" />
   </a>
-  <a href="https://reactnative.dev/">
-    <img src="https://img.shields.io/badge/Frame-React_Native-2bbc8a?style=flat&logo=react&logoColor=white" />
+  <a href="https://react.dev/">
+    <img src="https://img.shields.io/badge/Frame-React.js-2bbc8a?style=flat&logo=react&logoColor=white" />
   </a>
   <a href="https://nextjs.org/">
-    <img src="https://img.shields.io/badge/Frame-NextJS-2bbc8a?style=flat&logo=nextdotjs&logoColor=white" />
+    <img src="https://img.shields.io/badge/Frame-Next.js-2bbc8a?style=flat&logo=nextdotjs&logoColor=white" />
   </a>
   <a href="https://git-scm.com/">
     <img src="https://img.shields.io/badge/Tools-Git-2bbc8a?style=flat&logo=git&logoColor=white" />
   </a>
-  <a href="https://www.postgresql.org/">
-    <img src="https://img.shields.io/badge/Tools-PostgreSQL-2bbc8a?style=flat&logo=postgresql&logoColor=white" />
+  <a href="https://www.docker.com/">
+    <img src="https://img.shields.io/badge/Tools-Docker-2bbc8a?style=flat&logo=docker&logoColor=white" />
   </a>
-  <a href="https://www.kernel.org/">
+  <a href="https://www.postgresql.org/">
+    <img src="https://img.shields.io/badge/Database-PostgreSQL-2bbc8a?style=flat&logo=postgresql&logoColor=white" />
+  </a>
+  <a href="https://learn.microsoft.com/en-us/windows/wsl/">
     <img src="https://img.shields.io/badge/OS-WSL2-2bbc8a?style=flat&logo=linux&logoColor=white" />
   </a>
-  <a href="https://www.gnu.org/software/bash/">
-    <img src="https://img.shields.io/badge/Shell-Bash-2bbc8a?style=flat&logo=gnu-bash&logoColor=white" />
+  <a href="https://fishshell.com/">
+    <img src="https://img.shields.io/badge/Shell-Fish-2bbc8a?style=flat&logo=gnu-bash&logoColor=white" />
   </a>
   <a href="https://code.visualstudio.com/">
     <img src="https://img.shields.io/badge/Editor-VSCode-2bbc8a?style=flat&logo=visualstudiocode&logoColor=white" />
