@@ -5,23 +5,26 @@
 <!-- <h4>&#x1F527; Technologies & Tools</h4> -->
 <h4>Technologies & Tools</h4>
 <p>
+  <a href="https://www.ecma-international.org/publications-and-standards/standards/ecma-262/">
+    <img src="https://img.shields.io/badge/Lang-JavaScript-2bbc8a?style=flat&logo=javascript&logoColor=white" />
+  </a>
   <a href="https://www.typescriptlang.org/">
     <img src="https://img.shields.io/badge/Lang-TyepScript-2bbc8a?style=flat&logo=typescript&logoColor=white" />
   </a>
   <a href="https://www.python.org/">
     <img src="https://img.shields.io/badge/Lang-Python-2bbc8a?style=flat&logo=python&logoColor=white" />
   </a>
-  <a href="https://www.ecma-international.org/publications-and-standards/standards/ecma-262/">
-    <img src="https://img.shields.io/badge/Lang-JavaScript-2bbc8a?style=flat&logo=javascript&logoColor=white" />
+  <a href="https://isocpp.org/">
+    <img src="https://img.shields.io/badge/Lang-C++-2bbc8a?style=flat&logo=cplusplus&logoColor=white" />
   </a>
-  <a href="https://www.rust-lang.org/">
-    <img src="https://img.shields.io/badge/Lang-Rust-2bbc8a?style=flat&logo=rust&logoColor=white" />
+  <a href="https://nextjs.org/">
+    <img src="https://img.shields.io/badge/Frame-Next.js-2bbc8a?style=flat&logo=nextdotjs&logoColor=white" />
   </a>
   <a href="https://react.dev/">
     <img src="https://img.shields.io/badge/Frame-React.js-2bbc8a?style=flat&logo=react&logoColor=white" />
   </a>
-  <a href="https://nextjs.org/">
-    <img src="https://img.shields.io/badge/Frame-Next.js-2bbc8a?style=flat&logo=nextdotjs&logoColor=white" />
+  <a href="https://nodejs.org/en">
+    <img src="https://img.shields.io/badge/Frame-Node.js-2bbc8a?style=flat&logo=nodedotjs&logoColor=white" />
   </a>
   <a href="https://git-scm.com/">
     <img src="https://img.shields.io/badge/Tools-Git-2bbc8a?style=flat&logo=git&logoColor=white" />
@@ -55,7 +58,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://twitter.com/nhhnmm__/">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" />
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=x&logoColor=white" />
   </a>
   <a href="https://t.me/nhhnmm/">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" />
