@@ -9,13 +9,16 @@
     <img src="https://img.shields.io/badge/Lang-JavaScript-2bbc8a?style=flat&logo=javascript&logoColor=white" />
   </a>
   <a href="https://www.typescriptlang.org/">
-    <img src="https://img.shields.io/badge/Lang-TyepScript-2bbc8a?style=flat&logo=typescript&logoColor=white" />
+    <img src="https://img.shields.io/badge/Lang-TypeScript-2bbc8a?style=flat&logo=typescript&logoColor=white" />
   </a>
   <a href="https://www.python.org/">
     <img src="https://img.shields.io/badge/Lang-Python-2bbc8a?style=flat&logo=python&logoColor=white" />
   </a>
   <a href="https://isocpp.org/">
     <img src="https://img.shields.io/badge/Lang-C++-2bbc8a?style=flat&logo=cplusplus&logoColor=white" />
+  </a>
+  <a href="https://go.dev/">
+    <img src="https://img.shields.io/badge/Lang-Go-2bbc8a?style=flat&logo=go&logoColor=white" />
   </a>
   <a href="https://nextjs.org/">
     <img src="https://img.shields.io/badge/Frame-Next.js-2bbc8a?style=flat&logo=nextdotjs&logoColor=white" />
