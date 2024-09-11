@@ -14,17 +14,20 @@
   <a href="https://www.python.org/">
     <img src="https://img.shields.io/badge/Lang-Python-2bbc8a?style=flat&logo=python&logoColor=white" />
   </a>
-  <a href="https://isocpp.org/">
-    <img src="https://img.shields.io/badge/Lang-C++-2bbc8a?style=flat&logo=cplusplus&logoColor=white" />
-  </a>
   <a href="https://go.dev/">
     <img src="https://img.shields.io/badge/Lang-Go-2bbc8a?style=flat&logo=go&logoColor=white" />
+  </a>
+  <a href="https://react.dev/">
+    <img src="https://img.shields.io/badge/Frame-React-2bbc8a?style=flat&logo=react&logoColor=white" />
   </a>
   <a href="https://nextjs.org/">
     <img src="https://img.shields.io/badge/Frame-Next.js-2bbc8a?style=flat&logo=nextdotjs&logoColor=white" />
   </a>
-  <a href="https://react.dev/">
-    <img src="https://img.shields.io/badge/Frame-React.js-2bbc8a?style=flat&logo=react&logoColor=white" />
+  <a href="https://vuejs.org/">
+    <img src="https://img.shields.io/badge/Frame-Vue.js-2bbc8a?style=flat&logo=vuedotjs&logoColor=white" />
+  </a>
+  <a href="https://nuxt.com/">
+    <img src="https://img.shields.io/badge/Frame-Nuxt-2bbc8a?style=flat&logo=nuxtdotjs&logoColor=white" />
   </a>
   <a href="https://nodejs.org/en">
     <img src="https://img.shields.io/badge/Frame-Node.js-2bbc8a?style=flat&logo=nodedotjs&logoColor=white" />
@@ -44,9 +47,9 @@
   <a href="https://fishshell.com/">
     <img src="https://img.shields.io/badge/Shell-Fish-2bbc8a?style=flat&logo=gnu-bash&logoColor=white" />
   </a>
-  <a href="https://code.visualstudio.com/">
-    <img src="https://img.shields.io/badge/Editor-VSCode-2bbc8a?style=flat&logo=visualstudiocode&logoColor=white" />
-  </a>
+<!--   <a href="https://code.visualstudio.com/">
+    <img src="https://img.shields.io/badge/Editor-VSCode-2bbc8a?style=flat&logo=vscode&logoColor=white" />
+  </a> -->
 </p>
 
 <p>
@@ -66,13 +69,13 @@
   <a href="https://t.me/nhhnmm/">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" />
   </a> -->
-  <a href="https://www.linkedin.com/in/nhhnmm/">
+  <a href="https://www.linkedin.com/in/nhhnmm/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-525252?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://twitter.com/nhhnmm__/">
+  <a href="https://twitter.com/nhhnmm__/" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-525252?style=flat-square&logo=twitter&logoColor=white" />
   </a>
-  <a href="https://t.me/nhhnmm/">
+  <a href="https://t.me/nhhnmm/" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-525252?style=flat-square&logo=telegram&logoColor=white" />
   </a>
 </p>
