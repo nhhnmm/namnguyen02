@@ -63,7 +63,7 @@
   <a href="https://www.linkedin.com/in/nhhnmm/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-525252?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://twitter.com/nhhnmm__/" target="_blank">
+  <a href="https://twitter.com/nhhnmm/" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-525252?style=flat-square&logo=x&logoColor=white" />
   </a>
   <a href="https://t.me/nhhnmm/" target="_blank">
