@@ -53,14 +53,14 @@
 </p>
 
 <p>
-  <a href="https://github.com/namnguyen02?tab=repositories">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=namnguyen02&rank_icon=github&show_icons=true&count_private=true&title_color=2bbc8a&icon_color=2bbc8a&hide_border=true&hide_title=true" alt="Nam Nguyen's GitHub Stats" />
+  <a href="https://github.com/hoainamcse?tab=repositories">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=hoainamcse&rank_icon=github&show_icons=true&count_private=true&title_color=2bbc8a&icon_color=2bbc8a&hide_border=true&hide_title=true" alt="Nam Nguyen's GitHub Stats" />
   </a>
 </p>
 
 <h4>Connect with me</h4>
 <p>
-  <a href="https://www.linkedin.com/in/nhhnmm/" target="_blank">
+  <a href="https://www.linkedin.com/in/hoainamcse/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-525252?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://twitter.com/nhhnmm/" target="_blank">
