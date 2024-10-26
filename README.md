@@ -14,35 +14,44 @@
   <a href="https://www.python.org/">
     <img src="https://img.shields.io/badge/Lang-Python-2bbc8a?style=flat&logo=python&logoColor=white" />
   </a>
-  <a href="https://go.dev/">
-    <img src="https://img.shields.io/badge/Lang-Go-2bbc8a?style=flat&logo=go&logoColor=white" />
-  </a>
   <a href="https://react.dev/">
     <img src="https://img.shields.io/badge/Frame-React-2bbc8a?style=flat&logo=react&logoColor=white" />
   </a>
   <a href="https://nextjs.org/">
     <img src="https://img.shields.io/badge/Frame-Next.js-2bbc8a?style=flat&logo=nextdotjs&logoColor=white" />
   </a>
-<!--   <a href="https://vuejs.org/">
-    <img src="https://img.shields.io/badge/Frame-Vue.js-2bbc8a?style=flat&logo=vuedotjs&logoColor=white" />
-  </a>
-  <a href="https://nuxt.com/">
-    <img src="https://img.shields.io/badge/Frame-Nuxt-2bbc8a?style=flat&logo=nuxtdotjs&logoColor=white" />
-  </a> -->
   <a href="https://nodejs.org/en">
     <img src="https://img.shields.io/badge/Frame-Node.js-2bbc8a?style=flat&logo=nodedotjs&logoColor=white" />
   </a>
+  <a href="https://nestjs.com/">
+    <img src="https://img.shields.io/badge/Frame-NestJS-2bbc8a?style=flat&logo=nestjs&logoColor=white" />
+  </a>
+<!--   <a href="https://adonisjs.com/">
+    <img src="https://img.shields.io/badge/Frame-AdonisJS-2bbc8a?style=flat&logo=adonisjs&logoColor=white" />
+  </a> -->
+  <a href="https://jestjs.io/">
+    <img src="https://img.shields.io/badge/Test-Jest-2bbc8a?style=flat&logo=jest&logoColor=white" />
+  </a>
+<!--   <a href="https://vitest.dev/">
+    <img src="https://img.shields.io/badge/Test-Vitest-2bbc8a?style=flat&logo=vitest&logoColor=white" />
+  </a> -->
+  <a href="https://www.postgresql.org/">
+    <img src="https://img.shields.io/badge/Database-PostgreSQL-2bbc8a?style=flat&logo=postgresql&logoColor=white" />
+  </a>
+<!--   <a href="https://www.mongodb.com/">
+    <img src="https://img.shields.io/badge/Database-MongoDB-2bbc8a?style=flat&logo=mongodb&logoColor=white" />
+  </a> -->
   <a href="https://graphql.org/">
     <img src="https://img.shields.io/badge/Pattern-GraphQL-2bbc8a?style=flat&logo=graphql&logoColor=white" />
   </a>
+<!--   <a href="https://graphql.org/">
+    <img src="https://img.shields.io/badge/Database-Redis-2bbc8a?style=flat&logo=redis&logoColor=white" />
+  </a> -->
   <a href="https://git-scm.com/">
     <img src="https://img.shields.io/badge/Tool-Git-2bbc8a?style=flat&logo=git&logoColor=white" />
   </a>
   <a href="https://www.docker.com/">
     <img src="https://img.shields.io/badge/Tool-Docker-2bbc8a?style=flat&logo=docker&logoColor=white" />
-  </a>
-  <a href="https://www.postgresql.org/">
-    <img src="https://img.shields.io/badge/Database-PostgreSQL-2bbc8a?style=flat&logo=postgresql&logoColor=white" />
   </a>
   <a href="https://learn.microsoft.com/en-us/windows/wsl/">
     <img src="https://img.shields.io/badge/OS-WSL2-2bbc8a?style=flat&logo=linux&logoColor=white" />
@@ -63,7 +72,7 @@
   <a href="https://www.linkedin.com/in/hoainamcse/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-525252?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://twitter.com/nhhnmm/" target="_blank">
+  <a href="https://twitter.com/hoainamcse/" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-525252?style=flat-square&logo=x&logoColor=white" />
   </a>
   <a href="https://t.me/nhhnmm/" target="_blank">
